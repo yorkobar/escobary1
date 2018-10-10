@@ -1,44 +1,47 @@
-
-#include <stdio.h>
-int main ()
+#include <iostream>
+using namespace std;
+int main()
 {
-        int n,num1,num2,result;
-        char o;
-    do{
-        printf("What would you like to do?\n");
-        printf("press 1 for addition\n");
-        printf("press 2 for subtraction\n");
-        printf("press 3 for multiplication\n");
-        printf("press 4 for division\n");
-        scanf("%d",&n);
-        printf("please enter a number\n");
-        scanf("%d",&num1);
-        printf("please enter second number\n");
-        scanf("%d",&num2);
-          if ((num2 == 0)&&(n==4))
-          {
-            printf("can not divide by zero\n");
-            break;
-          }
-        switch(n)
-        {
-          case 1: result  = num1 + num2;
-                  printf("Addition of two numbers is %d", result);
-                  break;
-          case 2: result  = num1 - num2;
-                  printf("Subtraction of two numbers is %d", result);
-                  break;
-          case 3: result  = num1 * num2;
-                  printf("Multiplication of two numbers is %d", result);
-                  break;
-          case 4: result  = num1 / num2;
-                  printf("Division of two numbers is %d", result);
-                  break;
-        }
-        printf("\ndo you want to try again y/n?\n");
-        scanf("%c",&o);
+  int num1;
+  int num2;
+  int sum;
+  int o;
 
-    }while(o =='y');
+  cout << "what would you like to do? \n";
+  cout << "press 1 for addition\n";
+  cout << "press 2 for subtraction\n";
+  cout << "press 3 for multiplication\n";
+  cout << "press 4 for division\n";
+  cin >> o;
 
-  return 0;
+  cout << "please enter a number \n";
+  cin >> num1;
+  cout << "pleas enter second number\n";
+  cin >> num2;
+
+  if (o==1)
+  {
+    sum = num1 + num2;
+    cout << "the sum of the two numbers is" << sum << endl;
+  }
+  else if (o==2)
+  {
+    sum = num1 - num2;
+    cout << "the difference of the two numbers is" << sum << endl;
+  }
+  else if (o==3)
+  {
+    sum = num1 * num2;
+    cout << "the product of the two numbers is" << sum << endl;
+  }
+  else if (num2==0)&&(o==4)
+  {
+    cout << "can not divide by zero\n";
+  }
+  else if (num2!=0)&&(o==4)
+  {
+    sum = num1 / num2;
+    cout << "the quotient of the two numbers is" << sum << endl;
+  }
+return 0;
 }
