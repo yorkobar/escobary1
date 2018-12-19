@@ -1,0 +1,99 @@
+<?xml version="1.0"?>
+<catalog>
+   <Gin id="bk101">
+      <Country>England</Country>
+      <title>Bloom London Dry</title>
+      <Taste>Delightful citrus tones with a floral hint from the honeysuckle and chamomile.</Taste>
+      <price>$70-75 US</price>
+      <ABV>40 %</ABV>
+      <Best_served>Bloom London Dry with ice, tonic water and strawberries.</Best_served>
+   </Gin>
+   <Gin id="bk102">
+      <Country>Scotland</Country>
+      <title>Brockmans</title>
+      <Taste>Juniper, Blackberries, Blueberries, Coriander,
+         Angelica Root, Orris Root, Cassia Bark, Liquorice, Orange peel, Lemon peel, Almond</Taste>
+      <price>$75-85 US</price>
+      <ABV>40 %</ABV>
+      <Best_served>Brockmans with Ice,
+         tonic water (or Ginger Ale in the summer), pink grapefruit peel and a few blueberries</Best_served>
+   </Gin>
+   <Gin id="bk103">
+      <Country>England</Country>
+      <title>Portobello Road No. 171</title>
+      <Taste>Juniper, coriander seed, angelica root, orris root, lemon Peel,
+         orange peel, liquorice root, gassia bark, nutmeg</Taste>
+      <price>$70-80 US</price>
+      <ABV>42 %</ABV>
+      <Best_served>Portobello Road No. 171 with ice, tonic water and a slice of grapefruit</Best_served>
+   </Gin>
+   <Gin id="bk104">
+      <Country>United States of America</Country>
+      <title>Brooklyn Gin</title>
+      <Taste>Juniper, angelica root, lemon peel, lime peel, orange peel, lavender</Taste>
+      <price>$75-85 US</price>
+      <ABV>40 %</ABV>
+      <Best_served>Brooklyn Gin with ice, tonic water, sliced orange, lime, and some thyme.
+
+Conclusion</Best_served>
+   </Gin>
+   <Gin id="bk105">
+      <Country>England</Country>
+      <title>Beefeater 24</title>
+      <Taste>Juniper, Japanese Sencha, Chinese Green Tea, Grapefruit Peels, Lemon Peel, Almond,
+         Seville Orange Peel, Coriander Seed, Orris Root, Liquorice Root, Angelica Root, Angelica Seed</Taste>
+      <price>$70-80 US</price>
+      <ABV>45</ABV>
+      <Best_served>Beefeater 24 with ice, tonic water and a slice of grapefruit.</Best_served>
+   </Gin>
+   <Gin id="bk106">
+      <Country>Scotland</Country>
+      <title>Hendricks</title>
+      <Taste>Juniper, orange peel, yarrow, chamomile, coriander,
+         and infused with Bulgarian rose petals and cucumber</Taste>
+      <price>$75-85 US</price>
+      <ABV>44 %</ABV>
+      <Best_served>Hendrick’s with ice, tonic water, plus a couple of slices of cucumber to garnish</Best_served>
+   </Gin>
+   <Gin id="bk107">
+      <Country>England</Country>
+      <title>Sipsmith London Dry</title>
+      <Taste>Lemon peel, Seville orange peel, juniper berries, Madagascan cinnamon bark,
+         Belgian angelica root, Bulgarian coriander seed,
+         Chinese Cassia Bark, Italian Orris Root, Spanish Ground Almond, Spanish liquorice root</Taste>
+      <price>$75-85 US</price>
+      <ABV>41.6 %</ABV>
+      <Best_served>ipsmith London Dry Gin with ice, tonic water, plus a slice of lime.</Best_served>
+   </Gin>
+   <Gin id="bk108">
+      <Country>Scotland</Country>
+      <title>Caorunn</title>
+      <Taste>Juniper Berries, Cassia Bark, Lemon Peel, Coriander Seed, Angelica Root,
+         Orange Peel, Rowan Berry, Bog Myrtle, Heather, Coul Blush Apple, Dandelion Leaf.</Taste>
+      <price>$70-82 US</price>
+      <ABV>41.8</ABV>
+      <Best_served>Caorunn with ice, tonic water, and slices of red apple.</Best_served>
+   </Gin>
+   <Gin id="bk109">
+      <Country>Germany(Black Forest)</Country>
+      <title>Monkey 47</title>
+      <Taste>Here we go…. Juniper, acacia, flag, pimento, almond, orange, pepper (4 types), blackberry, cardamom,
+         cassia, cinnamon, , rose mallow, lemon verbena, cloves, coriander, cranberries, pomelo, cubeb, dog rose,
+          elderflower, ginger, Grains of Paradise, spruce, hawthorn berries, sage, ambrette, honeysuckle, jasmine,
+           kaffir lime, lavender, lemon, chamomile, lemon balm, lemongrass, licorice, bee balm, nutmeg, orris,
+            rosehip, sloe, angelica root, acacia flowers, bramble, lingonberries.</Taste>
+      <price>$75-85 US</price>
+      <ABV>47 %</ABV>
+      <Best_served>Monkey 47 with ice, and ginger ale
+         (I don’t feel you need garnish due to the 47 botanicals!).</Best_served>
+   </Gin>
+   <Gin id="bk110">
+      <Country>Scotland (originally Brazil)</Country>
+      <title>Tanqueray No. Ten</title>
+      <Taste>Made with fresh citrus fruits, plus chamomile flowers, and juniper, coriander, angelica, and licorice.</Taste>
+      <price>$70-80 US</price>
+      <ABV>41.1</ABV>
+      <Best_served>Tanqueray No.Ten with ice, tonic water, plus a slice of grapefruit.</Best_served>
+   </Gin>
+
+</catalog>
